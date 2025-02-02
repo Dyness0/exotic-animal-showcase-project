@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(127, 255, 178);
+    border-radius: 1.5; 
+    background-color: blueviolet;
+    font-size: medium;
+    
+
+}
+
+#navigation { 
+display: flex; 
+
+}
+img {
+padding: 12px 32px; 
+border-radius: 6px;
+
+
+}
+
+#destro {
+    width: 300px;
+    height: 300px;
+    padding: 2px, 39px;
+    background: url('img/dumbo_octopus.webp') center no-repeat;
+    background-color: aquamarine;
+
+}
+
